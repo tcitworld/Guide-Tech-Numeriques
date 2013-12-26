@@ -2,6 +2,8 @@
 Petit guide des technologies numériques à l'usage des neophythes
 ----------------------------------------------------------------
 
+2013 - The bee factory
+Licence : Creative Commons BY-CC-NA
 
 Avant propos - L'histoire d'une bicyclette
 
@@ -27,6 +29,7 @@ Ainsi dans ce guide du routard numérique, nous espérons vous donner, en plus d
 Nous commencerons logiquement par les bases. Après tout, je suis sur que vous en avez besoin. Vous savez certainement comment mettre en fonction votre appareil numérique, mais savez-vous comment il fonctionne ? Permettez-moi d'en douter un minimum. Une fois votre appareil passé en revue, de manière matérielle et logicielle, nous parlerons des réseaux. Qui les administre ? Comment fonctionnent-ils ? Ces considérations techniques passées, nous parlerons de l'utilisation du web et pour finir, de la philosophie des internets.
 Réjouissant, n'est-ce pas ? Je suis certain que, depuis votre chaise où vous êtes ligoté(e), vous trépignez d'impatience.
 
+
 Sommaire
 
 Avant-propos
@@ -37,6 +40,13 @@ Soyez libres !
 Connectez-vous au monde
 Un pied dans la jungle des internets
 Un monde qui possède des règles... et des préceptes
+La vie privée ?
 Les gens des internets
 Liberté, es-tu là ?
 Epilogue - le chemin est long mais la voie est libre
+
+
+Vous avez un ordinateur
+
+Quelque soit l'appareil que vous utilisez pour lire ce texte, que ce soit un PC/Mac, téléphone, télévision, écran de bord de votre voiture ou même montre, sachez que ce sont tous des ordinateurs. Un ordinateur est un appareil qui effectue des tâches (...). Ainsi, lorsque vous affirmez avoir un « smartphone », c'est faux, vous avez un ordinateur facilement transportable qui fait aussi téléphone, tout comme les voitures sont en train de devenir des ordinateurs qui vous permettent de vous déplacer. A propos de l'appellation « smartphone », nous verrons par que ces téléphones intelligents (en anglais, « smart ») n'ont de l'intelligence que le nom.
+Mais comment fonctionne donc un ordinateur ? On pourrait l'expliquer avec un système de couches. La couche matérielle, qui tire parti des composants de l'ordinateur pour traiter l'information, et la couche logicielle, qui fait l'interface entre vous et les calculs de l'ordinateur. Car un ordinateur, c'est avant tout cela. Faire des calculs, des additions, des multiplications, à une vitesse très élevée. Si vous avez une formation scientifique minimaliste, vous savez peut-être que l'on exprimme le nombre d'actions par secondes en Hertz. Les ordinateurs actuels font quelques milliards d'opérations, de calculs par seconde. Evidemment, lorsque vous allez sur Google chercher le programme télé du soir, vous êtes loin de voir cela. Tout cela est caché, car se déroule dans une couche inférieure.
